@@ -1,0 +1,19 @@
+{
+  "name": "module-root",
+  "version": "0.0.1",
+  "description": "A module to find the global or project npm path",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JPeer264/node-module-root.git"
+  },
+  "author": "Jan Peer Stöcklmair <janpeer264@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JPeer264/node-module-root/issues"
+  },
+  "homepage": "https://github.com/JPeer264/node-module-root"
+}
